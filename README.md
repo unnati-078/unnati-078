@@ -1,5 +1,5 @@
 # 💫 About Me:
-### 👋 Hi there! I'm Unnati Girase<br><br>🔭 I’m currently working on:  Data Science Projects<br><br>👯 I’m looking to collaborate on:  <br>Open Source, full-stack web projects, and ML for social impact<br><br>🤝 I’m looking for help with:  <br>Advanced DSA patterns, system design, and competitive programming<br><br>🌱 I’m currently learning:  <br>C++ DSA  & ML basics.<br><br>💬 Ask me about:  <br>Hackathons, student communities, MERN stack, or getting started in tech<br><br>⚡ Fun fact:  <br>I love turning creative ideas into code and building things people actually use!<br>
+👋 Hi there! I'm Unnati Girase<br><br>🔭 I’m currently working on:  Data Science Projects<br><br>👯 I’m looking to collaborate on:  <br>Open Source, full-stack web projects, and ML for social impact<br><br>🤝 I’m looking for help with:  <br>Advanced DSA patterns, system design, and competitive programming<br><br>🌱 I’m currently learning:  <br>C++ DSA  & ML basics.<br><br>💬 Ask me about:  <br>Hackathons, student communities, MERN stack, or getting started in tech<br><br>⚡ Fun fact:  <br>I love turning creative ideas into code and building things people actually use!<br>
 
 
 # 💻 Tech Stack:
