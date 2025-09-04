@@ -1,6 +1,6 @@
 <!-- Banner -->
 <h1 align="center">Hi 👋, I'm Unnati</h1>
-<h3 align="center">Designer & Developer from Dhule, Maharashtra, India 🇮🇳</h3>
+<h3 align="center">Designer & Developer</h3>
 
 <p align="center">
   I vibe with clean UI, fast backend, and ideas that turn into something real.  
