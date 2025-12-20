@@ -5,14 +5,13 @@
 <p align="center">
   I vibe with clean UI, fast backend, and ideas that turn into something real.  
   I don’t just build projects, I build stories ✨  
-  Code for me isn’t just about solving problems—it’s about creating experiences people love using 🚀  
+  Code for me isn’t just about solving problems-it’s about creating experiences people love using 🚀  
 </p>
 
 ---
 
 ## 🔭 About Me  
-
-- 🌱 Currently learning **Backend Technologies**  
+  
 - ⚡ Building **HomeBites** (a food-related project 🍴)  
 - 🤝 Open to collaborating on **cool & impactful projects**  
 - 📫 Reach me at **[unnatigirase03@gmail.com](mailto:unnatigirase03@gmail.com)**  
