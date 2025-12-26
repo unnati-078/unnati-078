@@ -34,14 +34,6 @@
 
 ---
 
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=unnati-078&show_icons=true&theme=radical" alt="Unnati's GitHub stats" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=unnati-078&layout=compact&theme=radical" alt="Top Languages" height="160"/>
-</p>
-
----
 
 ## 🌐 Connect with Me  
 
