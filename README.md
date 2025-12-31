@@ -8,8 +8,7 @@ figuring things out. learning to build cool stuff.
 
 ### 🌱 about me
 - learning by building projects  
-- into clean ui + stuff that actually works  
-- currently working on **HomeBites** 🍴  
+- into clean ui + stuff that actually works    
 - open to collabs & new ideas  
 
 ---
